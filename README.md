@@ -1,2 +1,1 @@
-# Mochila_viagem
-Projeto de localStorage em JavaScript
+# alura-armazenando-na-web
